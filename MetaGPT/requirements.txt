@@ -1,0 +1,4 @@
+python-dotenv
+requests
+typer
+pytest>=7.0
